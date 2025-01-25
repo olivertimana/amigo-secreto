@@ -14,7 +14,7 @@
 ## Características
 
 1. **Agregar nombres**:
-   - Los usuarios pueden escribir nombres en un campo de texto y agregarlos a una lista haciendo clic en el botón "Adicionar".
+   - Los usuarios pueden escribir nombres en un campo de texto y agregarlos a una lista haciendo clic en el botón "Añadir".
    - Validación para evitar entradas vacías.
 
 2. **Visualizar lista de nombres**:
